@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Online Shopping Application</string>
+    <string name="open_nav">open Navigation drawer</string>
+    <string name="close_nav">close Navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
